@@ -11,6 +11,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.3.4"
   spec.summary      = "Security Suite Framework."
   spec.description  = <<-DESC
+                        The Security Suite Framework.
                    DESC
   spec.homepage     = "https://github.com/CorDever/SecuritySuite.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
