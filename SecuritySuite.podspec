@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "SecuritySuite"
-  spec.version      = "1.3.4.1"
+  spec.version      = "1.3.5"
   spec.summary      = "Security Suite Framework."
   spec.description  = <<-DESC
                         The Security Suite Framework.
